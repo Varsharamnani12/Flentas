@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tanisha – Resume</title>
+    <style>
+        body { font-family: Arial; padding: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { margin-top: 25px; }
+        .section { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<h1>Tanisha</h1>
+<p>Jaipur, Rajasthan – 303121 | 8252627981</p>
+<p>Email: tanishashok3113@gmail.com | GitHub: github.com/Tanishaa31 | LinkedIn: tanisha-22b7142ba</p>
+
+<hr>
+
+<h2>Summary</h2>
+<p>Detail-oriented and consistent Computer Science undergraduate with hands-on experience in frontend development, website design, and application development. Skilled in building responsive, SEO-friendly, and user-centric web applications using HTML, CSS, JavaScript, and Python.</p>
+
+<h2>Education</h2>
+<ul>
+    <li><strong>B.Tech in Computer Science (2022–2026)</strong> – NIMS University, Jaipur</li>
+    <li><strong>Intermediate (2022)</strong> – DAV Public School, Patna (84%)</li>
+    <li><strong>Senior Secondary (2020)</strong> – DAV Public School, Dehri (88%)</li>
+</ul>
+
+<h2>Experience</h2>
+<p><strong>Python Programming Intern – CodeVertex (Aug 2024 – Oct 2024)</strong></p>
+<ul>
+    <li>Completed structured internship on Python basics and applications.</li>
+    <li>Gained practical understanding of syntax and basic problem-solving.</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+    <li><strong>CHEF AI</strong> – Android app recommending recipes from scanned ingredients.</li>
+    <li><strong>CHATBOT AI</strong> – Simple Python NLP chatbot.</li>
+    <li><strong>Personal Portfolio</strong> – Responsive web portfolio built with HTML and CSS.</li>
+</ul>
+
+<h2>Technical Skills</h2>
+<ul>
+    <li>Python, SQL (Basics)</li>
+    <li>HTML, CSS, JS, XML</li>
+    <li>Flask (Basics)</li>
+    <li>AWS – EC2, S3, IAM (Basics)</li>
+    <li>Linux (Ubuntu), Shell Commands</li>
+</ul>
+
+<h2>Soft Skills</h2>
+<ul>
+    <li>Strong Communication</li>
+    <li>Time Management</li>
+    <li>Problem-Solving</li>
+    <li>Decision-Making</li>
+</ul>
+
+<h2>Certificates</h2>
+<ul>
+    <li>AI/ML Development – CodeVertex</li>
+    <li>DSA – TechDev Guide (Google)</li>
+    <li>Training in AI/ML – CodeVertex</li>
+</ul>
+
+</body>
+</html>
